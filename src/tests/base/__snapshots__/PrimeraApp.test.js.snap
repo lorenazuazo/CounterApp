@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas a <PrimeraApp /> Debe mostar <PrimeraApp /> correctaente 1`] = `
+<Fragment>
+  <h1>
+    Hola, soy Lorena
+    !!!!
+  </h1>
+  <p>
+    es titulo default
+  </p>
+</Fragment>
+`;
+
+exports[`Pruebas a <PrimeraApp /> Debe mostarel mensaje "Hola, soy Lorena" 1`] = `
+<Fragment>
+  <h1>
+    Hola, soy Lorena
+    !!!!
+  </h1>
+  <p>
+    es titulo default
+  </p>
+</Fragment>
+`;
+
+exports[`Pruebas a Primera App Debe mostarel mensaje "Hola, soy Lorena" 1`] = `
+<Fragment>
+  <h1>
+    Hola, soy Lorena
+    !!!!
+  </h1>
+  <p>
+    es titulo default
+  </p>
+</Fragment>
+`;
